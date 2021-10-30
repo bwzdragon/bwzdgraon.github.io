@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Comedy
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Comedy\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=t\ s\ r\ a
+comment1.target=Comedy(java.lang.String,\ int,\ java.lang.String,\ java.lang.String[])
+comment2.params=i
+comment2.target=void\ setLaughs(int)
+comment3.params=
+comment3.target=int\ getLaughs()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=n
+comment5.target=void\ showMovie(int)
+numComments=6

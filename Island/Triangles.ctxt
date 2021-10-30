@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Triangles
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=t
+comment2.target=double\ calcProb(int)
+comment3.params=s1\ s2\ s3
+comment3.target=boolean\ isTri(double,\ double,\ double)
+numComments=4

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=QuizGrader
+comment1.params=Args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=void\ fill(int[])
+comment3.params=i
+comment3.target=void\ print(int[])
+comment4.params=i
+comment4.target=void\ reverse(int[])
+comment5.params=b
+comment5.target=void\ print(boolean[])
+comment6.params=i
+comment6.target=boolean\ duplicates(int[])
+comment7.params=i
+comment7.target=boolean\ isValid(int[])
+comment8.params=a\ b
+comment8.target=boolean[]\ grade(int[],\ int[])
+comment9.params=b
+comment9.target=int\ score(boolean[])
+numComments=10
